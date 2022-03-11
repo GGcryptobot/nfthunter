@@ -1,0 +1,2 @@
+# nfthunter
+NFT HUNTER BOT
